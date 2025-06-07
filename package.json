@@ -9,12 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "html5-qrcode": "^2.3.8",
-    "next": "15.3.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-qr-reader": "^3.0.0-beta-1"
-  },
+  "next": "13.4.19",
+  "react": "18.2.0",
+  "react-dom": "18.2.0",
+  "react-qr-reader": "^3.0.0-beta.1"
+}
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
